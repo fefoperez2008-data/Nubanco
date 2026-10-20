@@ -1,0 +1,1 @@
+O Nubanco é um sistema bancário desenvolvido em linguagem C que simula operações financeiras básicas, como cadastro de clientes, transferências, consulta de saldo e simulação de empréstimos com juros compostos. O projeto aplica conceitos fundamentais de programação, incluindo funções, estruturas condicionais, laços de repetição e validação de dados.
